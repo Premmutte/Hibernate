@@ -5,7 +5,6 @@ It demonstrates how to integrate Java applications with relational databases usi
 
 ## 🚀 Features
 - Configuration with `hibernate.cfg.xml`
-- Basic CRUD operations (Create, Read, Update, Delete)
 - Annotations-based mappings
 - One-to-One, One-to-Many, Many-to-One, and Many-to-Many relationships
 - Embeddable and composite key usage
